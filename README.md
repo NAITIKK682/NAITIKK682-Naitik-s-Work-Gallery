@@ -1,2 +1,14 @@
-# NAITIKK682-Naitik-s-Work-Gallery
-Welcome to Naitik’s Work Gallery, my personal portfolio where I showcase my projects in web development, machine learning, and NLP. From building interactive tour and travel websites to developing fake news detection models, I love turning ideas into reality through HTML, CSS, JavaScript, and AI technologies.  📌 Explore my work &amp; let’s connect! 🚀
+# Portfolio Responsive Complete
+## [Watch it on youtube](https://youtu.be/AKNvTxWOdKw)
+### Portfolio Responsive Complete
+
+- Responsive Personal Portfolio Website HTML CSS & JavaScript.
+- Contains animations when scrolling.
+- Smooth scrolling in each section.
+- Developed first with the Mobile First methodology, then for desktop.
+- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+
+💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/@Bedimcode)
+
+![preview img](/preview.png)
+
